@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PosyPrash\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PosyPrash\\.nuget\\packages"
+    ]
+  }
+}
